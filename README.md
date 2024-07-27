@@ -1,2 +1,2 @@
 # Python-basics
-This is for basics program of python
+This is for basics program of python.
